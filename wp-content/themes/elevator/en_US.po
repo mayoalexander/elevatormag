@@ -1,0 +1,909 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bold Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 10:52-0500\n"
+"PO-Revision-Date: 2011-10-24 10:52-0500\n"
+"Last-Translator: Jonathan Kight <dark225@aol.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\JON_LAPTOP\\Desktop\\Working Folder\\Bold Theme\\Updated Source\\organic_bold\n"
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/404.php:9
+msgid "Not Found, Error 404"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/404.php:10
+msgid "The page you are looking for no longer exists."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:15
+#: Source\organic_bold/category.php:15
+#: Source\organic_bold/home.php:62
+#: Source\organic_bold/home.php:117
+#: Source\organic_bold/home.php:182
+#: Source\organic_bold/index.php:14
+msgid "Posted by"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:15
+#: Source\organic_bold/category.php:15
+#: Source\organic_bold/index.php:14
+msgid "on"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:15
+#: Source\organic_bold/category.php:15
+#: Source\organic_bold/page_blog.php:47
+msgid "F j, Y"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:15
+#: Source\organic_bold/category.php:15
+#: Source\organic_bold/home.php:62
+#: Source\organic_bold/home.php:117
+#: Source\organic_bold/home.php:182
+#: Source\organic_bold/index.php:15
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:15
+#: Source\organic_bold/category.php:15
+#: Source\organic_bold/home.php:62
+#: Source\organic_bold/home.php:117
+#: Source\organic_bold/home.php:182
+#: Source\organic_bold/index.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:15
+#: Source\organic_bold/category.php:15
+#: Source\organic_bold/home.php:62
+#: Source\organic_bold/home.php:117
+#: Source\organic_bold/home.php:182
+#: Source\organic_bold/index.php:15
+msgid "% Comments"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:15
+#: Source\organic_bold/category.php:15
+#: Source\organic_bold/index.php:16
+#: Source\organic_bold/page.php:14
+#: Source\organic_bold/page_full.php:20
+msgid "(Edit)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:27
+#: Source\organic_bold/category.php:27
+#: Source\organic_bold/index.php:26
+msgid "Category:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:27
+#: Source\organic_bold/category.php:27
+#: Source\organic_bold/index.php:26
+#: Source\organic_bold/page_blog.php:47
+msgid "Tags:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/archive.php:33
+#: Source\organic_bold/category.php:33
+#: Source\organic_bold/index.php:36
+#: Source\organic_bold/page.php:18
+#: Source\organic_bold/page_full.php:24
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/author.php:25
+msgid "Website:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/author.php:28
+msgid "Profile:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/author.php:31
+msgid "Posts by"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/author.php:41
+msgid "No posts by this author."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:10
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:22
+msgid "Comments"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:23
+msgid "to"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:34
+msgid "Trackbacks"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:35
+msgid "Check out what others are saying..."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:58
+msgid "Leave A Comment"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:65
+msgid "You must be"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:65
+msgid "logged in"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:65
+msgid "to post a comment."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:72
+msgid "Logged in as"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:72
+msgid "Log out"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:77
+msgid "Name"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:77
+#: Source\organic_bold/comments.php:80
+msgid "(required)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:80
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:83
+msgid "Website"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/comments.php:91
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/footer.php:6
+#: Source\organic_bold/footer.php:10
+msgid "Organic Themes"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/footer.php:6
+msgid "Copyright"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/footer.php:6
+msgid "All Rights Reserved"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/footer.php:10
+msgid "Bold Theme v3"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/footer.php:10
+#: Source\organic_bold/page_blog.php:47
+msgid "by"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/footer.php:10
+msgid "WordPress Hosting"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/footer.php:10
+#: Source\organic_bold/header.php:15
+msgid "RSS Feed"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/functions.php:35
+#: Source\organic_bold/functions.php:51
+msgid "Theme Options"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/functions.php:52
+msgid "This theme requires the Options Framework plugin installed and activated to manage your theme options."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/functions.php:52
+msgid "Install Now"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/functions.php:120
+msgid "&raquo;"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/functions.php:120
+msgid "&laquo"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/functions.php:218
+msgid "Paste Video Embed Code"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/functions.php:219
+msgid "Enter Vimeo, YouTube or other embed code to display a featured video. (600px by 340px Featured Slider)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/header.php:16
+msgid "Atom Feed"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/home.php:23
+#: Source\organic_bold/index.php:14
+msgid "l, F j, Y"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/home.php:58
+#: Source\organic_bold/home.php:113
+#: Source\organic_bold/home.php:178
+#: Source\organic_bold/page_blog.php:22
+msgid "M"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/home.php:58
+#: Source\organic_bold/home.php:113
+#: Source\organic_bold/home.php:178
+#: Source\organic_bold/page_blog.php:22
+msgid "j"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/home.php:72
+#: Source\organic_bold/home.php:127
+#: Source\organic_bold/home.php:192
+#: Source\organic_bold/page_blog.php:34
+msgid "Tweet"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/index.php:19
+#: Source\organic_bold/page.php:14
+#: Source\organic_bold/page_blog.php:44
+#: Source\organic_bold/page_full.php:20
+msgid "Read More"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:32
+msgid "One"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:32
+msgid "Two"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:32
+msgid "Three"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:32
+msgid "Four"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:32
+msgid "Five"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:35
+msgid "French Toast"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:35
+msgid "Pancake"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:35
+msgid "Omelette"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:35
+msgid "Crepe"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:35
+msgid "Waffle"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "1 Second"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "2 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "4 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "6 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "8 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "10 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "12 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "14 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "16 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "18 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "20 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "30 Seconds"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "1 Minute"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:44
+msgid "Hold Frame"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:47
+#: Source\organic_bold/options.php:141
+#: Source\organic_bold/options.php:162
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:47
+#: Source\organic_bold/options.php:148
+#: Source\organic_bold/options.php:155
+msgid "No"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:58
+msgid "All Categories"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:63
+msgid "Select a page:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:73
+msgid "Homepage Settings"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:76
+msgid "Featured Slider Category"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:77
+msgid "Choose the category you wish to display in the homepage slider."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:79
+#: Source\organic_bold/options.php:99
+#: Source\organic_bold/options.php:112
+#: Source\organic_bold/options.php:125
+#: Source\organic_bold/options.php:172
+#: Source\organic_bold/options.php:185
+msgid "Select a category:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:83
+msgid "Featured Slider Posts To Display"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:84
+msgid "Enter the number of posts you would like to display in the featured slider."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:89
+msgid "Featured Slider Transition Interval"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:90
+msgid "Choose the transition time for the homepage slider. This is the time the frame is held before transitioning to the next slide."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:96
+msgid "Featured Posts Category (One Column)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:97
+msgid "Choose the category you wish to display for the one column posts."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:103
+msgid "Featured Posts Displayed (One Column)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:104
+msgid "Enter the number of posts you would like to display in the one column posts."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:109
+msgid "Featured Posts Category (Two Column)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:110
+msgid "Choose the category you wish to display for the two column posts."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:116
+msgid "Featured Posts Displayed (Two Column)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:117
+msgid "Enter the number of posts you would like to display in the two column posts."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:122
+msgid "Featured Posts Category (Three Column)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:123
+msgid "Choose the category you wish to display for the three column posts."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:129
+msgid "Featured Posts Displayed (Three Column)"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:130
+msgid "Enter the number of posts you would like to display in the three column posts."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:135
+msgid "Display Options"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:138
+msgid "Display The Slider Information Box?"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:139
+msgid "Select whether or not you would like to display the slider content."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:145
+msgid "Display The One Column Homepage Posts?"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:146
+msgid "Select whether or not you would like to display the one column featured posts on the homepage."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:152
+msgid "Display The Two Column Homepage Posts?"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:153
+msgid "Select whether or not you would like to display the two column featured posts on the homepage."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:159
+msgid "Display The Three Column Homepage Posts?"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:160
+msgid "Select whether or not you would like to display the three column featured posts on the homepage."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:166
+msgid "Page Templates"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:169
+msgid "Blog Template Category"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:170
+msgid "Choose the category you wish to display on the blog page template."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:176
+msgid "Blog Posts To Display"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:177
+msgid "Enter the number of posts you would like to display on the blog page template."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:182
+msgid "Portfolio Template Category"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:183
+msgid "Choose the category you wish to display on the 3 column portfolio page template."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:189
+msgid "Portfolio Posts To Display"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/options.php:190
+msgid "Enter the number of posts you would like to display on the 3 column portfolio page template."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_archive.php:20
+msgid "By Page:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_archive.php:23
+msgid "By Month:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_archive.php:26
+msgid "By Category:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_archive.php:33
+msgid "By Post:"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_blog.php:47
+msgid "in"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_blog.php:60
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_blog.php:61
+#: Source\organic_bold/page_portfolio_3.php:59
+msgid "We're sorry, but the page you're looking for isn't here."
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_blog.php:62
+#: Source\organic_bold/page_portfolio_3.php:60
+msgid "Try searching for the page you are looking for or using the navigation in the header or sidebar"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/page_portfolio_3.php:58
+msgid "Page not Found"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/sidebar.php:6
+msgid "Widget Area"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/sidebar.php:7
+msgid "This section is widgetized. To add widgets here, go to the"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/sidebar.php:7
+msgid "Widgets"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/sidebar.php:7
+msgid "panel in your WordPress admin, and add the widgets you would like to the"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/sidebar.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: C:\Users\JON_LAPTOP\Desktop\Working
+#: Folder\Bold Theme\Updated
+#: Source\organic_bold/sidebar.php:8
+msgid "*This message will be overwritten after widgets have been added."
+msgstr ""
+

@@ -1,0 +1,224 @@
+/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+#desktop-nav {
+	display: none;
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+	#desktop-nav {
+		display: none !important;
+	}
+	
+	.sidebar-mobile .tabber-widget-basic-dark ul.tabber-widget-tabs a {
+		padding: 6px 21px !important;
+	}
+}
+
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+	#desktop-nav {
+		display: none !important;
+	}
+	
+	.sidebar-mobile .tabber-widget-basic-dark ul.tabber-widget-tabs a {
+		padding: 6px 21px !important;
+	}
+}
+
+.sidebar-mobile ul {
+	margin: 0;
+	padding: 0;
+}
+
+.sidebar-mobile input[type="email"] {
+	width: 190px !important;
+}
+
+.sidebar-mobile .tabber-widget li {
+	list-style: none !important;
+	margin-top: 5px !important;
+	margin-bottom: 5px !important;
+	background: #333 !important;
+	padding: 5px;
+}
+
+.sidebar-mobile .tabber-widget li a {
+	color: #ccc !important;
+}
+
+.sidebar-mobile .tabber-widget li a:hover {
+	color: #ff3300 !important;
+	text-decoration: none;
+}
+
+.sidebar-mobile .tabber-widget-content a, .sidebar-mobile .tabber-widget-content .post-stats {
+	display: none !important;
+}
+
+.sidebar-mobile .tabber-widget-content .wpp-post-title {
+	display: block !important;
+}
+
+.sidebar-mobile .selected {
+	background: #EB3A3C !important;
+	color: #fff !important;
+/*font-weight: bold !important;*/
+}
+
+.at4-jumboshare .at4-count {
+	font-size: 30px !important;
+	line-height: 35px !important;
+}
+
+.at4-share-container .label {
+	display: none !important;
+}
+
+ul.gfield_radio {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+ul.gfield_radio li {
+	list-style: none !important;
+	display: block !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.gfield_radio input[type=radio] {
+	margin: 0;
+	padding: 0;
+	width: 4% !important;
+	height: auto !important;
+}
+
+.submission-tabclass ul {
+	margin: 0;
+	padding: 0;
+}
+
+.submission-tabclass .nav-tabs {
+	border: none !important;
+}
+
+.submission-tabclass .nav-tabs li {
+	width: 50%;
+}
+
+.submission-tabclass .nav-tabs > li > a {
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important;
+	border: none;
+	background: #eee;
+	color: #aaa;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+}
+
+.submission-tabclass .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus {
+	background: #FF3300;
+	color: #fff;
+	border: none !important;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important;
+	margin: 0;
+}
+
+.submission-tabclass .nav-tabs li a:hover {
+	background: #FFC8BA;
+	color: #fff;
+}
+
+.submission-tabclass .nav-tabs li.active a:hover {
+	background: #FF3300;
+}
+
+.clear {
+	clear: both;
+}
+
+.poststatus {
+	float: right;
+	display: inline;
+	color: #fff;
+	background: #FF0000;
+	padding: 0px 7px;
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.poststatus a.statuslink {
+	color: #fff;
+	padding: 4px;
+}
+
+.sticky, .category-sticky {
+	border-bottom: 1px solid #000000 !important;
+	border-top: 1px solid #000000 !important;
+}
+
+img.alignright {
+	float: right;
+	margin: 0 0 1em 1em;
+}
+
+img.alignleft {
+	float: left;
+	margin: 0 1em 1em 0;
+}
+
+img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.iframe-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.iframe-container iframe,
+
+.iframe-container object,
+
+.iframe-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
